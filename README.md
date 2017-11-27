@@ -16,7 +16,7 @@ QG de mes reflexions, travaux, articles...Hitsoire de pas les perdre et les en m
 
 
 ### Pratiques collaboratives, développement de projet, transmission
-[Walking Dev ou comment apprendre en itinérance] (https://medium.com/@julia.barbelane/walking-dev-ou-comment-apprendre-en-itin%C3%A9rance-426acb12e024)  
+[Walking Dev ou comment apprendre en itinérance](https://medium.com/@julia.barbelane/walking-dev-ou-comment-apprendre-en-itin%C3%A9rance-426acb12e024)  
 [Comment mon badge de SydWeb a atterit au milieu de mes photos de familles](https://medium.com/@julia.barbelane/comment-mon-badge-pour-sudweb-a-atterrit-au-milieu-des-mes-photos-de-famille-146283e2e219)  
 
 
@@ -25,4 +25,4 @@ QG de mes reflexions, travaux, articles...Hitsoire de pas les perdre et les en m
 [Un week-end pour se jauger et mieux faire ensemble](https://sudweb.fr/blog/2018/un-we-pour-mieux-faire-ensemble/)  
 [Choisir un lieu plutôt qu'une ville](https://sudweb.fr/blog/2018/un-lieu-plutot-qu-une-ville/)  
 
-### Chantier
+### Chantiers
