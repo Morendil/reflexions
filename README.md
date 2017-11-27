@@ -1,5 +1,5 @@
 # Reflexions
-QG de mes reflexions, travaux, articles...Hitsoire de pas les perdre et les en même temps les rendre accessibles.
+Un endroit ou poser mes reflexions, travaux, articles, idées en cours...Histoire de pas les perdre et en même temps les rendre accessibles.
 
 ![reflexions !](https://github.com/Julia-barbelane/reflexions/blob/master/photos/icone-reflexions.png)
 
