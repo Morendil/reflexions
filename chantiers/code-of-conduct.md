@@ -33,6 +33,8 @@ On tend a être un maximum inclusif et en même temps des fois si ça marche pas
 - Encourageante : actions qui promeuent/encouragent l’accueil et l’inclusion
 - Empêchante : actions qui freinent/suppriment l’exclusion/l’oppression
 
+![zone d'action du CoC](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/zone-d-action-du-coc.jpeg)
+
 ## Ajouter ligne pour dire :  
 - Avant toute chose, je suis totalement légitime de dire que je ne suis pas à l’aise avec ce qui est en train de se passer et je suis invitée à le faire le plus tôt possible. 
 - Si quelqu’un me fait remarquer que j’ai eu un comportement opressif, c’est pas la mort. Proposer plus de voir ça comme une occasion de progresser et de prendre plus soin qu’une attaque personnelle. 
