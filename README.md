@@ -1,4 +1,4 @@
-# Reflexions
+# Réflexions
 Un endroit ou poser mes réflexions, travaux, articles, idées en cours...Histoire de pas les perdre et en même temps les rendre accessibles.
 
 ![reflexions !](https://github.com/Julia-barbelane/reflexions/blob/master/photos/icone-reflexions.png)
