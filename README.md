@@ -26,3 +26,4 @@ QG de mes reflexions, travaux, articles...Hitsoire de pas les perdre et les en m
 [Choisir un lieu plutôt qu'une ville](https://sudweb.fr/blog/2018/un-lieu-plutot-qu-une-ville/)  
 
 ### Chantiers
+[les Code of conduct](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/code-of-conduct.md)
