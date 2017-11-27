@@ -27,3 +27,4 @@ Un endroit ou poser mes réflexions, travaux, articles, idées en cours...Histoi
 
 ### Chantiers
 [les Code of conduct](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/code-of-conduct.md)
+["Celles et ceux qui savent font, celles et ceux qui comprennent enseignent"](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/ceux-qui-savent-font-ceux-qui-comprennent-enseignent.md)
