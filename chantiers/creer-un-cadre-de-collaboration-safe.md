@@ -8,19 +8,19 @@ C’est faire son max pour créer un contexte de collaboration dans lequel chacu
 
 ### Dans l’expression :
 
-*Eviter les Bullshit Words :* il faut, on doit, le problème c’est que, c’est « juste » que, oui mais, les gens, on, toujours, jamais, c’est simplement que…
+**Eviter les Bullshit Words :** il faut, on doit, le problème c’est que, c’est « juste » que, oui mais, les gens, on, toujours, jamais, c’est simplement que…
 
-*Ne pas stigmatiser quelqu’un ou le prendre à parti devant tout le monde.* Par exemple : « tout à l’heure à la pause café Bruno m’a dit qu’il s’était senti mal à l’aise parce qu’il n’avait pas réussi à prendre la parole » et privilégier des formulations telles que « j’ai observé qu’à plusieurs reprises, lors du dernier temps collectif, plusieurs d’entre nous se sont coupé la parole, il se peut que cela n’est pas permis à certains moins à l’aise à l’oral de s’exprimer. »
+**Ne pas stigmatiser quelqu’un ou le prendre à parti devant tout le monde.** Par exemple : « tout à l’heure à la pause café Bruno m’a dit qu’il s’était senti mal à l’aise parce qu’il n’avait pas réussi à prendre la parole » et privilégier des formulations telles que « j’ai observé qu’à plusieurs reprises, lors du dernier temps collectif, plusieurs d’entre nous se sont coupé la parole, il se peut que cela n’est pas permis à certains moins à l’aise à l’oral de s’exprimer. »
 
-*Imposer de s’exprimer devant tout le monde « est-ce que quelqu’un·e s’oppose ? »* 
+**Imposer de s’exprimer devant tout le monde « est-ce que quelqu’un·e s’oppose ? »** 
 1)	ça peut demander beaucoup de courage de s’opposer ainsi devant toute une assemblée. Quand bien même une personne ne serait pas OK avec la décision prise, il se peut qu’elle ne puisse pas s’exprimer dans ces conditions
 2)	attente de la réponse d’Antoine
 
-*Se moquer :* 
+**Se moquer :** 
 
-*Utiliser le langage oppressif :* 
+**Utiliser le langage oppressif :** 
 
-*Faire des jugements positifs :* quand je dit à quelqu’un « c’est bien » je créé une posture haute implicite de moi sur lui, le « c’est bien », sonne alors comme une sorte de validation qui me met dans une posture de « juge » qui sait/définit ce qui est bien et ce qui n’est l’est pas. Par principe de précaution, on va supposer que l’autre n’est pas en attente de validation. 
+**Faire des jugements positifs :** quand je dit à quelqu’un « c’est bien » je créé une posture haute implicite de moi sur lui, le « c’est bien », sonne alors comme une sorte de validation qui me met dans une posture de « juge » qui sait/définit ce qui est bien et ce qui n’est l’est pas. Par principe de précaution, on va supposer que l’autre n’est pas en attente de validation. 
 
 ### Dans l’écoute :
 - Donner un conseil alors que la personne n’en a pas fait la demande
@@ -34,8 +34,8 @@ C’est faire son max pour créer un contexte de collaboration dans lequel chacu
 
 ## 2) Les trucs qui participent à la création d’un cadre Safe 
 
-*Parler au « Je »*
+**Parler au « Je »**
 
-*Faire preuve de bienveillance et de bien-traitance*
+**Faire preuve de bienveillance et de bien-traitance**
 
-*L’écoute empathique* 
+**L’écoute empathique** 
