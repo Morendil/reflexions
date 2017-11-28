@@ -1,11 +1,15 @@
 # Trucs et astuces pour créer un cadre de collaboration Safe
 J’évolue avec de nombreux collectifs. J’ai compris que lorsque le contexte relationnel est “safe” (climat de confiance, de tranquillité et d’harmonie) je me sens beaucoup mieux. Du coup, j’ai décidé d’observer et questionner mes acolytes pour déterminer les “trucs” qui empêchent de créer un contexte relationnel Safe… Retour sur mon exploration (non exhaustif !)
+
++ créer un contexte safe = baisser nos "gardes" respectives
 	
 ## 1) Les trucs qui ne participent pas à la création d’un cadre Safe :  
 
 ### Dans l’expression :
 
 **Les Bullshit Words :** Ce sont des mots qu'on utilise beaucoup, qui n'appportent pas une grande valeur à l'échange et qui, la plupart du temps, sous-entendent/cachent des attentes insatisfaites. Par exemple : *il faut, on doit, le problème c’est que, c’est « juste » que, oui mais, les gens, [on](http://www.ithaquecoaching.com/articles/communication-on-je-nous-4528.html), toujours, jamais, c’est simplement que…*
+
+Faire un focus sur le on. 
 
 **Stigmatiser quelqu’un.e ou l.e.a prendre à parti devant tout le monde.** C'est quand je cite ou interpelle quelqu'un.e par son prénom devant tout le monde. Par exemple : « *tout à l’heure à la pause café Bruno m’a dit qu’il s’était senti mal à l’aise parce qu’il n’avait pas réussi à prendre la parole.* » et privilégier des formulations telles que «*J’ai observé qu’à plusieurs reprises, lors du dernier temps collectif, plusieurs d’entre nous se sont coupé la parole, il se peut que cela n’est pas permis à certains moins à l’aise à l’oral de s’exprimer. Est-ce que ça vous dit qu'on fasse plus attention à ça ?*»
 
