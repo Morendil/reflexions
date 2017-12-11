@@ -14,7 +14,13 @@ Faire un focus sur le on.
 **Stigmatiser quelqu’un.e ou l.e.a prendre à parti devant tout le monde.** C'est quand je cite ou interpelle quelqu'un.e par son prénom devant tout le monde. Par exemple : « *tout à l’heure à la pause café Bruno m’a dit qu’il s’était senti mal à l’aise parce qu’il n’avait pas réussi à prendre la parole.* » et privilégier des formulations telles que «*J’ai observé qu’à plusieurs reprises, lors du dernier temps collectif, plusieurs d’entre nous se sont coupé la parole, il se peut que cela n’est pas permis à certains moins à l’aise à l’oral de s’exprimer. Est-ce que ça vous dit qu'on fasse plus attention à ça ?*»
 
 **Imposer de manière implicite à quelqu'un de s’exprimer devant tout le monde**
-« *Est-ce que quelqu’un·e s’oppose/veut s’exprimer/rajouter un truc ?*" Répondre à une question de ce genre devant tout le monde peut demander beaucoup de courage. Ca implique de prendre fortement position face à l’assemblée.
+« *Est-ce que quelqu’un·e s’oppose/veut s’exprimer/rajouter un truc ?*" dans un cas comme ça, il est peu probable que l'absence de réponse a cette question soit réellement représentative de ce que pensent les personnes questionnées : 
+- le mot "oppose" est très fort. S'opposer n'est pas quelque chose de facile à faire.
+- il est peu probable qu'une personne un peu timide et/ou qui a des difficultés à parler en public et/ou qui a des doutes sur ça position... prenne la parole.
+- une question ouverte à un groupe est toujours compliquée : dans ce cas, parler c'est sortir du groupe pour exprimer une pensée perso, et c'est pas facile à faire (on voit souvent après ce type de question un flottement, tout le monde s'observe pour voir ce que pensent les autres).
+
+Au final, il facile d'imaginer que ce type de questions rassure surtout la personne qui la pose...
+
 Peut-être dans ce cas, j’aurais plutôt tendance à proposer une deuxième forme d’invitation telle que “*… si des personnes veulent venir me voir plus tard dans la journée pour partager un désaccord ou donner un avis, elles sont les bienvenue !.*”
 
 **Se moquer :** ça peut parfois faire rire lorsque quelqu'un.e bafouille en lisant son compte rendu, ça fait sourire lorsque quelqu'un.e glisse de sa chaise, des regards en coin se font lorsqu'une personne fait un lapsus ou mélange ses mots...mais en réalité ça peut-être vécu comme quelque chose de très inconfortable pour la personne "dont on rigole"... 
