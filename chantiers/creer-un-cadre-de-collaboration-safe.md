@@ -7,7 +7,9 @@ J’évolue avec de nombreux collectifs. J’ai compris que lorsque le contexte 
 
 ### Dans l’expression :
 
-**Les Bullshit Words :** Ce sont des mots qu'on utilise beaucoup, qui n'appportent pas une grande valeur à l'échange et qui, la plupart du temps, sous-entendent/cachent des attentes insatisfaites. Par exemple : *il faut, on doit, le problème c’est que, c’est « juste » que, oui mais, les gens, [on](http://www.ithaquecoaching.com/articles/communication-on-je-nous-4528.html), toujours, jamais, c’est simplement que…*
+**Les Bullshit Words :** Ce sont des mots qu'on utilise beaucoup, qui n'appportent pas une grande valeur à l'échange et qui, la plupart du temps, sous-entendent/cachent des attentes insatisfaites. Par exemple : *il faut, on doit, le problème c’est que, oui mais, les gens, [on](http://www.ithaquecoaching.com/articles/communication-on-je-nous-4528.html), toujours, jamais, c’est simplement que…*
+
+**les Super-word** "hyper", "extrèment", "très", "c'est juste que", "c'est simplement", "honnètement"...sont des mots que je vais avoir tendance à utiliser "à la légère" alors que si j'y pense, je les utilise pour appuyer une idée qui me semble importante. Quand je dis quelque chose du genre "non mais je dit juste que..." et que j'y pense, je me rend compte qu'en réalité non, c'est pas "juste" quelque chose pour moi, en fait c'est important. De la même manière, pourquoi ais-je besoin de rajouter "honnêtement" ou "sincèrement". Qu'est-ce qui me pousse à avoir besoin de préciser que je suis honnête ou sincère ? 
 
 Faire un focus sur le on. 
 
@@ -58,4 +60,4 @@ Exemple : la galanterie. L'intention d'un homme "galant" est bienveillante (port
 
 Exemple en image : dans le film "patients" à 9min, la relation patient/soigneur mise en scène illustre bien ma vision du décalage qu'il peut y avoir entre bienveillance et bientraitance.
 
-*Un grand "Merci !" à toutes les personnes qui (de près où de loin) m'ont partagé leurs billes (et/ou m'ont offert de magnifiques feed-back) ce qui a largement contribué atayer ma pensée et pondre ces quelques lignes : Isabelle Desplat, Stéphane Langlois, Maïtané Lenoir, Antoine Vernois, Aude Lorriaux, Thomas Wolf, Ash Dryden, David de Bruant, Erick Gardin, Magali Toulouse, Lucas Fristchi, Brasiers et Cerisiers...*
+*Un grand "Merci !" à toutes les personnes qui (de près où de loin) m'ont partagé leurs billes (et/ou m'ont offert de magnifiques feed-back) ce qui a largement contribué atayer ma pensée et pondre ces quelques lignes : Isabelle Desplat, Stéphane Langlois, Maïtané Lenoir, Antoine Vernois, Aude Lorriaux, Thomas Wolf, Ash Dryden, David de Bruant, Erick Gardin, Magali Toulouse, Lucas Fristchi, la Thym de SudWeb 2017, Brasiers et Cerisiers...*
