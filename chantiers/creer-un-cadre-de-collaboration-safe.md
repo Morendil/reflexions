@@ -63,4 +63,4 @@ Exemple : la galanterie. L'intention d'un homme "galant" est bienveillante (port
 
 Exemple en image : dans le film "patients" à 9min, la relation patient/soigneur mise en scène illustre bien ma vision du décalage qu'il peut y avoir entre bienveillance et bientraitance.
 
-*Un grand "Merci !" à toutes les personnes qui (de près où de loin) m'ont partagé leurs billes (et/ou m'ont offert de magnifiques feed-back) ce qui a largement contribué atayer ma pensée et pondre ces quelques lignes : Isabelle Desplat, Stéphane Langlois, Maïtané Lenoir, Antoine Vernois, Aude Lorriaux, Thomas Wolf, Ash Dryden, David de Bruant, Erick Gardin, Magali Toulouse, Lucas Fristchi, la Thym de SudWeb 2017, Brasiers et Cerisiers...*
+*Un grand "Merci !" à toutes les personnes qui (de près où de loin) m'ont partagé leurs billes (et/ou m'ont offert de magnifiques feed-back) ce qui a largement contribué atayer ma pensée et pondre ces quelques lignes : Isabelle Desplat, Stéphane Langlois, Maïtané Lenoir, Antoine Vernois, Aude Lorriaux, Thomas Wolf, Ashe Dryden, David de Bruant, Erick Gardin, Magali Toulouse, Lucas Fristchi, la Thym de SudWeb 2017, Brasiers et Cerisiers...*
